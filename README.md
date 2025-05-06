@@ -3,7 +3,7 @@
 ## About me:
 - Studying Economics and Computer Science @ UConn
 - Interested in data analytics and machine learning
-- Also learning about networking and pursuing CCNA certification
+- AWS Developer Associate Certified - Studying for CCNA
 - Graduating Spring 2025
 
 
